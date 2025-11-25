@@ -22,8 +22,8 @@ We leverage a natural experiment in India's National Family Health Survey (NFHS-
 ```
 covid-heterogenous-effect/
 │
-├── data/                          # All data files (raw data not tracked by git)
-│   ├── raw/                       # Original NFHS data files
+├── data/                         # All data files (raw data not tracked by git)
+│   ├── raw/                      # Original NFHS data files
 │   │   ├── nfhs4/                # NFHS-4 (2015-16) datasets
 │   │   └── nfhs5/                # NFHS-5 (2019-21) dataset
 │   └── processed/                # Cleaned and aggregated datasets
