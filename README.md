@@ -64,7 +64,7 @@ covid-heterogenous-effect/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/covid-heterogenous-effect.git
+git clone https://github.com/Vedant-Sahu/covid-heterogenous-effect.git
 cd covid-heterogenous-effect
 ```
 
