@@ -16,4 +16,5 @@ dependencies:
   - pip:
     - econml         
     - causalml       
-    - dowhy          
+    - dowhy 
+    - linearmodels         
